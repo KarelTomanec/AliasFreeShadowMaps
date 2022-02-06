@@ -1,7 +1,7 @@
 # Alias-free Shadow Maps
 
 ## Description
-Implementation of alias-free shadow mapping algorithm in OpenGL. [Alias-Free Shadow Maps](https://diglib.eg.org/handle/10.2312/EGWR.EGSR04.161-166).
+Implementation of alias-free shadow mapping algorithm in OpenGL. [[Alias-Free Shadow Maps](https://diglib.eg.org/handle/10.2312/EGWR.EGSR04.161-166)]
  
 ## Examples
 <img src="/Images/screenshot1.PNG" with="400" height="400">
